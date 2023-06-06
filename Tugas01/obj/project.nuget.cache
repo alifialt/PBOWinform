@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2CuoOjY+/2zZf0+9q1kwB2MR3y3upeSGhQIJ8kl9iy4W2w1nMDZphLJBsieQl5TlRHOYZTN4dfKvVx/Ha6dPg==",
+  "success": true,
+  "projectFilePath": "D:\\Alif\\Kuliah\\Semester 2\\Pemrograman Berorientasi Objek\\PBO Winform\\Tugas01\\project_alif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\writg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\writg\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\writg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
